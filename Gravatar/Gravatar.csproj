@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>netstandard2.1</TargetFramework>
+	<PackageId>Gravatar.Frvs</PackageId>
+	<Version>1.0.0</Version>
+	<License>MIT</License>
+	<Authors>Lucas Frois</Authors>
+	<Company>frvs.com.br</Company>
+	<PackageDescription>Extensions for Gravatar</PackageDescription>
+	<Description>Extensions for Gravatar</Description>
+	<RepositoryUrl>https://github.com/frvs/Gravatar</RepositoryUrl>
+	<PackageProjectUrl>https://github.com/frvs/Gravatar</PackageProjectUrl>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageTags>Gravatar</PackageTags>
+	<Title>Gravatar Extensions</Title>
+	<Summary>Extensions for Gravatar</Summary>
+  </PropertyGroup>
+
+</Project>
